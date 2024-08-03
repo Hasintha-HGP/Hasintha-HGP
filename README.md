@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Hasintha</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri lanka</h3><hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasintha-hgp&label=Profile%20views&color=0e75b6&style=flat" alt="hasintha-hgp" /> </p>
 
@@ -8,7 +8,7 @@
 - 📫 How to reach me **phasinth34@gmail.com**
 
 - ⚡ Fun fact **Call me as hasi**
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/pasindu hasintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu hasintha" height="30" width="40" /></a>
