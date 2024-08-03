@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasintha-hgp&show_icons=true&locale=en&layout=compact" alt="hasintha-hgp" /></p>
 
-<p>&nbsp &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasintha-hgp&show_icons=true&locale=en" alt="hasintha-hgp" /></p>
+<p>&nbsp &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hasintha-hgp&show_icons=true&locale=en" alt="hasintha-hgp" /></p>
