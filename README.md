@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasintha-hgp&label=Profile%20views&color=0e75b6&style=flat" alt="hasintha-hgp" /> </p>
 
-- 🔭 I’m currently working on **Undergraduate on University of kelaniya**
+- 🔭 I’m currently  **Undergraduate Student at University of kelaniya**
 
 - 📫 How to reach me **phasinth34@gmail.com**
 
